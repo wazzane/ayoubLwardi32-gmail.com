@@ -1,0 +1,23 @@
+.ExternalClass{display:block !important;}
+/*.header {*/
+/*background: #1976D2;*/
+/*}*/
+@media only screen and (max-width: 650px) {
+table[class="page-holder"]{
+width:340px !important;
+margin:0 auto !important;
+}
+td[class="main-cell"]{
+/*padding:0 10px !important;*/
+}
+table[class="column"]{
+float:none !important;
+width:100% !important;
+}
+td[class="cell"],
+td[class="cell"] font{
+font-size:12px !important;
+}
+td[class="cell"] a{
+padding:10px 0!important;
+}
